@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Samy</h1>
 <h3 align="center">A Java software engineer from Cairo, Egypt 🏝</h3>
 
-- 🌱 I’m currently learning **creating RESTful APIs and Microservices with Spring**
+- 🌱 I’m currently working in VOIS working with Microservices, AWS (Lambda - S3 - EC2c) and SQLLoader
+  And learning **Microservices Design pattern with Spring**
 
 - 💬 Ask me about **Java, Jakarta EE, Spring**
 
